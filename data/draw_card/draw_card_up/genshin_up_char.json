@@ -1,0 +1,84 @@
+{
+    "char": {
+        "title": "「焰色天河」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/c\/c0\/4skp74chrualn54eqmuza0ly108xhgl.png",
+        "start_time": "2022-08-02T18:00:00",
+        "end_time": "2022-08-23T14:59:00",
+        "up_char": [
+            {
+                "name": "宵宫",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "班尼特",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "辛焱",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "云堇",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "arms": {
+        "title": "「神铸赋形」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/1\/15\/tgyrqsu8qvhlfmkm0lbs3kh3u9xmqcr.png",
+        "start_time": "2022-08-02T18:00:00",
+        "end_time": "2022-08-23T14:59:00",
+        "up_char": [
+            {
+                "name": "飞雷之弦振",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "斫峰之刃",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "暗巷的酒与诗",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "暗巷猎手",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "笛剑",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "祭礼大剑",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "匣里灭辰",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    }
+}

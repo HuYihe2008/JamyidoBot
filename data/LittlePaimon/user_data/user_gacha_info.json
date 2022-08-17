@@ -1,0 +1,39 @@
+{
+    "2812856215": {
+        "fate": 200,
+        "gacha_list": {
+            "wish_total": 10,
+            "wish_4": 1,
+            "wish_5": 0,
+            "wish_4_up": 0,
+            "wish_5_up": 0,
+            "gacha_5_role": 10,
+            "gacha_5_weapon": 0,
+            "gacha_5_permanent": 0,
+            "gacha_4_role": 1,
+            "gacha_4_weapon": 0,
+            "gacha_4_permanent": 0,
+            "is_up_5_role": false,
+            "is_up_5_weapon": false,
+            "is_up_4_role": true,
+            "is_up_4_weapon": false,
+            "dg_name": "",
+            "dg_time": 0
+        },
+        "role_list": {
+            "旅行者": {
+                "星级": "★★★★★",
+                "数量": 6,
+                "出货": [
+                    0
+                ]
+            },
+            "砂糖": {
+                "数量": 1,
+                "出货": [],
+                "星级": "★★★★"
+            }
+        },
+        "weapon_list": {}
+    }
+}
